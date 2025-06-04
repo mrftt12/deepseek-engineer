@@ -78,6 +78,7 @@ For when you want to preload files into conversation context:
 ## Getting Started
 
 ### Prerequisites
+sk-0bf0687f620b4ea29635e1bc358423fd
 1. **DeepSeek API Key**: Get your API key from [DeepSeek Platform](https://platform.deepseek.com)
 2. **Python 3.11+**: Required for optimal performance
 
