@@ -32,7 +32,7 @@ prompt_session = PromptSession(
 # --------------------------------------------------------------------------------
 load_dotenv()  # Load environment variables from .env file
 client = OpenAI(
-    api_key="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",
+    api_key=os.environ['OPENAI_API_KEY'],
     base_url="https://api.openai.com/v1/chat/completions"
 )  # Configure for OpenAI API
 
